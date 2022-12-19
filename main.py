@@ -88,6 +88,7 @@ def choice_char_class() -> str:
 
 if __name__ == "__main__":
     run_screensaver()
+
     def main() -> str:
         """Функция приветствия."""
         print('Приветствую тебя, искатель приключений!')
